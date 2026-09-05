@@ -1,0 +1,1 @@
+export const metadata={title:'Careers'}; export default function Careers(){return <section className="story-page"><span>CAREERS</span><h1>NO OPEN ROLES RIGHT NOW.</h1><p>We are not currently listing open positions. Check back for future opportunities with 6ix to Go.</p></section>}
